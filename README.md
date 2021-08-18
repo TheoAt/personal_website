@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This repository represents the code of my personal website available at this link : dev-theoat.fr
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
